@@ -7,7 +7,7 @@ Hosted in Firebase -> [Smile Builders](https://smile-builders-24d63.web.app/)
 ### Installation
 1. Clone the repo
    ```sh
-   git clone https://github.com/Porgramming-Hero-web-course/b6a11-service-review-client-side-imran-mridha.git
+   git clone https://github.com/imran-mridha/smile-builders.git
    ```
 2. Install NPM packages
    ```sh
